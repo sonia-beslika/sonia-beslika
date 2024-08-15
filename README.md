@@ -1,3 +1,5 @@
+<img src='/welcome-banner.png' alt="banner"></img>
+
 ## Hi there 👋
 
 <!--
