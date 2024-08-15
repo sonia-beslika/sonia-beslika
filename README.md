@@ -1,6 +1,10 @@
+<style>
+    p {color: #b13a70}
+</style>
+
 <img src='/welcome-banner.png' alt="banner"></img>
 
-## <font color="#b13a70">Hi there 👋</font>
+## <p>Hi there 👋</p>
 
 <!--
 **sonia-beslika/sonia-beslika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
