@@ -12,7 +12,7 @@ https://linktr.ee/ouweatherandclimateclub
 
 
 You can connect with me on <br/>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sonia-beslika-845b41289)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 **sonia-beslika/sonia-beslika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
