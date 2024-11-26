@@ -1,6 +1,6 @@
 <img src='/welcome-banner.png' alt="banner"></img>
 
-:wave: Hi, I'm Sonia, a maths undergraduate at The Open University, with an interest in meteorology and oceanography.
+:wave: Hi, I'm Sonia, a maths undergraduate at The Open University, with an interest in meteorology and hydrological modelling.
 
 I'm about halfway through my degree, this year I'm taking
 - MS327: *Deterministic and Stochastic Dynamics*
